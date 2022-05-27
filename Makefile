@@ -7,7 +7,7 @@ GO_PKGROOT  = ./
 
 .PHONY: tests
 tests:
-	$(GO_TEST) $(GO_PKGROOT)/...
+	$(GO_TEST) $(GO_PKGROOT)...
 
 .PHONY: test
 ifeq (test,$(firstword $(MAKECMDGOALS)))
