@@ -1,9 +1,14 @@
 # Command Definitions
 GO          = go
+GO_BUILD    = $(GO) build
 GO_TEST     = $(GO) test -v
 
 # Target Parameters
 GO_PKGROOT  = ./
+
+.PHONY: builds
+builds:
+	$(GO_BUILD) $(GO_PKGROOT)...
 
 .PHONY: tests
 tests:
