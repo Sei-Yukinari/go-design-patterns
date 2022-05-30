@@ -22,4 +22,9 @@ make test creational-patterns/singleton
 [Singleton](./creational-patterns/singleton)
 
 ## 構造に関するパターン
+
 [Decorator](./structural-patterns/decorator)
+
+## 振る舞いに関するパターン
+
+[Observer](./behavioral-patterns/observer)
