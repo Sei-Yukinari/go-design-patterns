@@ -20,3 +20,6 @@ make test creational-patterns/singleton
 
 [Builder](./creational-patterns/builder)
 [Singleton](./creational-patterns/singleton)
+
+## 構造に関するパターン
+[Decorator](./structural-patterns/decorator)
