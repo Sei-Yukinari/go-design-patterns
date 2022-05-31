@@ -30,3 +30,4 @@ make test creational-patterns/singleton
 [Observer](./behavioral-patterns/observer)
 [State](./behavioral-patterns/state)
 [Strategy](./behavioral-patterns/strategy)
+[Template Method](./behavioral-patterns/template-method)
