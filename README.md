@@ -31,3 +31,7 @@ make test creational-patterns/singleton
 [State](./behavioral-patterns/state)  
 [Strategy](./behavioral-patterns/strategy)  
 [Template Method](./behavioral-patterns/template-method)  
+
+## 計測に関するパターン
+
+[Timing Functions](./profiling-patterns/profile)  
