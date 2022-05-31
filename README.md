@@ -28,3 +28,4 @@ make test creational-patterns/singleton
 ## 振る舞いに関するパターン
 
 [Observer](./behavioral-patterns/observer)
+[State](./behavioral-patterns/state)
